@@ -1,0 +1,22 @@
+
+body{
+    background-color: #ddd;
+}
+.container{
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.img_container{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+.phraseText{
+  font-style:italic;
+  color: #dd7b22;  
+  text-align:center;
+}
